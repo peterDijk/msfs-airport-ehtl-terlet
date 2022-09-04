@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<AssetPackage Version="0.1.1">
+<AssetPackage ReleaseNotes="PackageDefinitions\peterdijk-airport-ehtl-nationaal-zweefvlieg-centrum-terlet\ReleaseNotes.xml" Version="0.1.2">
 	<ItemSettings>
 		<ContentType>SCENERY</ContentType>
-		<Title>Nationaal Zweefvlieg Centrum Terlet</Title>
+		<Title>Nationaal Zweefvliegcentrum Terlet</Title>
 		<Manufacturer/>
 		<Creator>Peter en Roel van Dijk</Creator>
 	</ItemSettings>
@@ -16,7 +16,7 @@
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageDefinitions\peterdijk-airport-ehtl-nationaal-zweefvlieg-centrum-terlet\ContentInfo</AssetDir>
+			<AssetDir>PackageDefinitions\peterdijk-airport-ehtl-nationaal-zweefvlieg-centrum-terlet\ContentInfo\</AssetDir>
 			<OutputDir>ContentInfo\peterdijk-airport-ehtl-nationaal-zweefvlieg-centrum-terlet\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="scenery">

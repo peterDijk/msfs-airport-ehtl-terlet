@@ -1,11 +1,59 @@
 <?xml version="1.0"?>
 <FSData version="9.0">
-	<Airport displayName="Nationaal Zweefvlieg Centrum Terlet" groupID="1" groupGenerated="FALSE" country="Netherlands" city="Terlet" name="Nationaal Zweefvlieg Centrum Terlet" ident="EHTL" lat="52.05436111000000" lon="5.91639722000000" alt="0.00000000000000" magvar="0.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE">
-		<Runway displayName="14R-32L" parentGroupID="1" lat="52.04973030019303" lon="5.92431771262492" alt="63.31263438519090" heading="132.00001525878906" length="1500.00000000000000" width="25.80000686645508" patternAltitude="304.79998779296875" surface="{43E7E61A-16BF-49B5-AA3F-BE7AD969B1FC}" transparent="FALSE" number="13" designator="NONE" primaryLanding="TRUE" primaryTakeoff="TRUE" primaryPattern="RIGHT" secondaryLanding="TRUE" secondaryTakeoff="TRUE" secondaryPattern="LEFT" primaryMarkingBias="0.00000000000000" secondaryMarkingBias="0.00000000000000" groundMerging="TRUE" excludeVegetationAround="TRUE">
+	<SceneryObject displayName="windsock 32L" groupIndex="3" lat="52.04527593222484" lon="5.93181582288305" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<Windsock poleHeight="4.572000" sockLength="2.743200" lighted="FALSE" containerTitle="Windsock"/>
+	</SceneryObject>
+	<SceneryObject displayName="windsock 14R" groupIndex="5" lat="52.05306728893857" lon="5.91795291485592" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<Windsock poleHeight="4.572000" sockLength="2.743200" lighted="FALSE" containerTitle="Windsock"/>
+	</SceneryObject>
+	<SceneryObject displayName="windsock 22L" groupIndex="4" lat="52.05555486787485" lon="5.93591865364354" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<Windsock poleHeight="4.572000" sockLength="2.743200" lighted="FALSE" containerTitle="Windsock"/>
+	</SceneryObject>
+	<SceneryObject displayName="windsock 22C" groupIndex="2" lat="52.05782148384201" lon="5.93332171146325" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<Windsock poleHeight="4.572000" sockLength="2.743200" lighted="FALSE" containerTitle="Windsock"/>
+	</SceneryObject>
+	<SceneryObject displayName="windsock 12" groupIndex="1" lat="52.06297456388464" lon="5.91662993453012" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<Windsock poleHeight="4.572000" sockLength="2.743200" lighted="FALSE" containerTitle="Windsock"/>
+	</SceneryObject>
+	<SceneryObject displayName="windsock 22R" lat="52.06692606869382" lon="5.92369578725047" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<Windsock poleHeight="4.572000" sockLength="2.743200" lighted="FALSE" containerTitle="Windsock"/>
+	</SceneryObject>
+	<Airport displayName="Nationaal Zweefvliegcentrum Terlet" groupIndex="6" groupID="1" groupGenerated="FALSE" country="Netherlands" city="Arnhem" name="Nationaal Zweefvliegcentrum Terlet" ident="EHTL" lat="52.05708135556073" lon="5.92599889928086" alt="2.78359142877162" magvar="0.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE">
+		<Runway parentGroupID="1" groupIndex="4" lat="52.06082703631104" lon="5.92551753083283" alt="78.68226122297347" heading="113.18965148925781" length="1369.90307617187500" width="25.00000000000000" patternAltitude="200.00000000000000" surface="{43E7E61A-16BF-49B5-AA3F-BE7AD969B1FC}" transparent="FALSE" number="12" designator="NONE" primaryLanding="TRUE" primaryTakeoff="TRUE" primaryPattern="LEFT" secondaryLanding="TRUE" secondaryTakeoff="TRUE" secondaryPattern="LEFT" primaryMarkingBias="0.00000000000000" secondaryMarkingBias="0.00000000000000" groundMerging="TRUE" excludeVegetationAround="TRUE">
 			<Markings edges="FALSE" threshold="FALSE" alternateThreshold="FALSE" fixedDistance="FALSE" alternateFixedDistance="FALSE" touchdown="FALSE" alternateTouchdown="FALSE" dashes="FALSE" ident="FALSE" leadingZeroIdent="FALSE" precision="FALSE" alternatePrecision="FALSE" edgePavement="FALSE" singleEnd="FALSE" primaryClosed="FALSE" secondaryClosed="FALSE" primaryStol="FALSE" secondaryStol="FALSE" noThresholdEndArrows="FALSE"/>
 			<Lights center="NONE" edge="NONE"/>
-			<RunwayStart end="PRIMARY" lat="52.05390289477743" lon="5.91682626726794" alt="62.96531107462943" heading="135.00001525878906"/>
-			<RunwayStart end="SECONDARY" lat="52.04553851706935" lon="5.93183845070288" alt="63.73493450693786" heading="315.00067138671875"/>
+			<RunwayStart end="PRIMARY" lat="52.06311599480176" lon="5.91681532455226" alt="73.20289017912000" heading="113.18965148925781"/>
+			<RunwayStart end="SECONDARY" lat="52.05849171917131" lon="5.93434677330535" alt="84.32756170723587" heading="293.18963623046875"/>
+		</Runway>
+		<Runway parentGroupID="1" groupIndex="5" lat="52.05118775650082" lon="5.92602002899467" alt="86.26306509040296" heading="132.54234313964844" length="1280.50329589843750" width="25.00000000000000" patternAltitude="200.00000000000000" surface="{43E7E61A-16BF-49B5-AA3F-BE7AD969B1FC}" transparent="FALSE" number="14" designator="L" primaryLanding="TRUE" primaryTakeoff="TRUE" primaryPattern="LEFT" secondaryLanding="TRUE" secondaryTakeoff="TRUE" secondaryPattern="LEFT" primaryMarkingBias="0.00000000000000" secondaryMarkingBias="0.00000000000000" groundMerging="TRUE" excludeVegetationAround="TRUE">
+			<Markings edges="FALSE" threshold="FALSE" alternateThreshold="FALSE" fixedDistance="FALSE" alternateFixedDistance="FALSE" touchdown="FALSE" alternateTouchdown="FALSE" dashes="FALSE" ident="FALSE" leadingZeroIdent="FALSE" precision="FALSE" alternatePrecision="FALSE" edgePavement="FALSE" singleEnd="FALSE" primaryClosed="FALSE" secondaryClosed="FALSE" primaryStol="FALSE" secondaryStol="FALSE" noThresholdEndArrows="FALSE"/>
+			<Lights center="NONE" edge="NONE"/>
+			<RunwayStart end="PRIMARY" lat="52.05488558184210" lon="5.91946972828350" alt="80.80765318498015" heading="132.54234313964844"/>
+			<RunwayStart end="SECONDARY" lat="52.04746559094335" lon="5.93260054970764" alt="91.81075177714229" heading="312.54248046875000"/>
+		</Runway>
+		<Runway parentGroupID="1" lat="52.04931218410630" lon="5.92525346340504" alt="68.45298967044801" heading="132.54962158203125" length="1400.00000000000000" width="25.80000686645508" patternAltitude="200.00000000000000" surface="{43E7E61A-16BF-49B5-AA3F-BE7AD969B1FC}" transparent="FALSE" number="14" designator="R" primaryLanding="TRUE" primaryTakeoff="TRUE" primaryPattern="RIGHT" secondaryLanding="TRUE" secondaryTakeoff="TRUE" secondaryPattern="LEFT" primaryMarkingBias="0.00000000000000" secondaryMarkingBias="0.00000000000000" groundMerging="TRUE" excludeVegetationAround="TRUE">
+			<Markings edges="FALSE" threshold="FALSE" alternateThreshold="FALSE" fixedDistance="FALSE" alternateFixedDistance="FALSE" touchdown="FALSE" alternateTouchdown="FALSE" dashes="FALSE" ident="FALSE" leadingZeroIdent="FALSE" precision="FALSE" alternatePrecision="FALSE" edgePavement="FALSE" singleEnd="FALSE" primaryClosed="FALSE" secondaryClosed="FALSE" primaryStol="FALSE" secondaryStol="FALSE" noThresholdEndArrows="FALSE"/>
+			<Lights center="NONE" edge="NONE"/>
+			<RunwayStart end="PRIMARY" lat="52.05352888501678" lon="5.91782727825195" alt="68.10569121502340" heading="135.54963684082031"/>
+			<RunwayStart end="SECONDARY" lat="52.04507612217392" lon="5.93270864636598" alt="68.87526721134782" heading="315.55017089843750"/>
+		</Runway>
+		<Runway parentGroupID="1" groupIndex="3" lat="52.05280815896798" lon="5.93094759050940" alt="95.59921713545918" heading="219.47404479980469" length="1145.73632812500000" width="50.00000000000000" patternAltitude="200.00000000000000" surface="{43E7E61A-16BF-49B5-AA3F-BE7AD969B1FC}" transparent="FALSE" number="22" designator="L" primaryLanding="TRUE" primaryTakeoff="TRUE" primaryPattern="LEFT" secondaryLanding="TRUE" secondaryTakeoff="TRUE" secondaryPattern="LEFT" primaryMarkingBias="0.00000000000000" secondaryMarkingBias="0.00000000000000" groundMerging="TRUE" excludeVegetationAround="TRUE">
+			<Markings edges="FALSE" threshold="FALSE" alternateThreshold="FALSE" fixedDistance="FALSE" alternateFixedDistance="FALSE" touchdown="FALSE" alternateTouchdown="FALSE" dashes="FALSE" ident="FALSE" leadingZeroIdent="FALSE" precision="FALSE" alternatePrecision="FALSE" edgePavement="FALSE" singleEnd="FALSE" primaryClosed="FALSE" secondaryClosed="FALSE" primaryStol="FALSE" secondaryStol="FALSE" noThresholdEndArrows="FALSE"/>
+			<Lights center="NONE" edge="NONE"/>
+			<RunwayStart end="PRIMARY" lat="52.05656691586854" lon="5.93597471324151" alt="95.48598508257419" heading="219.47402954101562"/>
+			<RunwayStart end="SECONDARY" lat="52.04915486813840" lon="5.92604173056125" alt="95.74138697516173" heading="39.47400283813477"/>
+		</Runway>
+		<Runway parentGroupID="1" groupIndex="1" lat="52.05363041544265" lon="5.92955716937736" alt="81.06048090662807" heading="219.29418945312500" length="1154.55163574218750" width="25.00000000000000" patternAltitude="200.00000000000000" surface="{43E7E61A-16BF-49B5-AA3F-BE7AD969B1FC}" transparent="FALSE" number="22" designator="C" primaryLanding="TRUE" primaryTakeoff="TRUE" primaryPattern="LEFT" secondaryLanding="TRUE" secondaryTakeoff="TRUE" secondaryPattern="LEFT" primaryMarkingBias="0.00000000000000" secondaryMarkingBias="0.00000000000000" groundMerging="TRUE" excludeVegetationAround="TRUE">
+			<Markings edges="FALSE" threshold="FALSE" alternateThreshold="FALSE" fixedDistance="FALSE" alternateFixedDistance="FALSE" touchdown="FALSE" alternateTouchdown="FALSE" dashes="FALSE" ident="FALSE" leadingZeroIdent="FALSE" precision="FALSE" alternatePrecision="FALSE" edgePavement="FALSE" singleEnd="FALSE" primaryClosed="FALSE" secondaryClosed="FALSE" primaryStol="FALSE" secondaryStol="FALSE" noThresholdEndArrows="FALSE"/>
+			<Lights center="NONE" edge="NONE"/>
+			<RunwayStart end="PRIMARY" lat="52.05730682865431" lon="5.93445970808516" alt="80.94526945799589" heading="219.29417419433594"/>
+			<RunwayStart end="SECONDARY" lat="52.04990932310034" lon="5.92456067037525" alt="81.20338588859886" heading="39.29396438598633"/>
+		</Runway>
+		<Runway parentGroupID="1" groupIndex="2" lat="52.06214206127100" lon="5.91897873423471" alt="75.05655397474766" heading="215.61804199218750" length="1224.62463378906250" width="25.00000000000000" patternAltitude="200.00000000000000" surface="{43E7E61A-16BF-49B5-AA3F-BE7AD969B1FC}" transparent="FALSE" number="22" designator="R" primaryLanding="TRUE" primaryTakeoff="TRUE" primaryPattern="LEFT" secondaryLanding="TRUE" secondaryTakeoff="TRUE" secondaryPattern="LEFT" primaryMarkingBias="0.00000000000000" secondaryMarkingBias="0.00000000000000" groundMerging="TRUE" excludeVegetationAround="TRUE">
+			<Markings edges="FALSE" threshold="FALSE" alternateThreshold="FALSE" fixedDistance="FALSE" alternateFixedDistance="FALSE" touchdown="FALSE" alternateTouchdown="FALSE" dashes="FALSE" ident="FALSE" leadingZeroIdent="FALSE" precision="FALSE" alternatePrecision="FALSE" edgePavement="FALSE" singleEnd="FALSE" primaryClosed="FALSE" secondaryClosed="FALSE" primaryStol="FALSE" secondaryStol="FALSE" noThresholdEndArrows="FALSE"/>
+			<Lights center="NONE" edge="NONE"/>
+			<RunwayStart end="PRIMARY" lat="52.06639708585852" lon="5.92393649086035" alt="74.52138327062130" heading="215.61804199218750"/>
+			<RunwayStart end="SECONDARY" lat="52.05791784158445" lon="5.91405139722758" alt="75.63591147866100" heading="35.61798477172852"/>
 		</Runway>
 		<Aprons/>
 		<PaintedElements/>
