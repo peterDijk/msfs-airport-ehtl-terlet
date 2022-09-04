@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<FSData version="9.0">
+	<Polygon altitude="68.72245950347462">
+		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{D31F0522-40C5-4255-8E3A-C894BDD7FB29}"/>
+		<Vertex lat="52.05535149739359" lon="5.91204636037083"/>
+		<Vertex lat="52.05521995995439" lon="5.91184540723842"/>
+		<Vertex lat="52.05414873563424" lon="5.91262176391820"/>
+		<Vertex lat="52.05285097524196" lon="5.91504892959600"/>
+		<Vertex lat="52.04974701615542" lon="5.92032497080729"/>
+		<Vertex lat="52.04662296947380" lon="5.92610903464492"/>
+		<Vertex lat="52.04441996015034" lon="5.93028218312433"/>
+		<Vertex lat="52.04337565547094" lon="5.93232832027476"/>
+		<Vertex lat="52.04373385212259" lon="5.93312532187649"/>
+		<Vertex lat="52.04417730260495" lon="5.93345630240519"/>
+		<Vertex lat="52.04478562731660" lon="5.93398158670378"/>
+		<Vertex lat="52.04970667995681" lon="5.92558479051882"/>
+		<Vertex lat="52.05199761511814" lon="5.92162815575192"/>
+		<Vertex lat="52.05529553663074" lon="5.91526640487826"/>
+		<Vertex lat="52.05608451493751" lon="5.91358365239536"/>
+		<Vertex lat="52.05569696610382" lon="5.91225551856448"/>
+	</Polygon>
+	<Airport displayName="Nationaal Zweefvlieg Centrum Terlet" groupIndex="1" groupID="1" groupGenerated="FALSE" name="Nationaal Zweefvlieg Centrum Terlet" ident="EHTL" lat="52.05436111000000" lon="5.91639722000000" alt="0.00000000000000" magvar="0.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE">
+		<Runway parentGroupID="1" lat="52.05187485294261" lon="5.92102404753296" alt="63.39219799419945" heading="132.00001525878906" length="1000.00000000000000" width="25.80000686645508" patternAltitude="304.79998779296875" surface="{2B809652-F4C3-4622-A698-9DEBD0B8A0A7}" transparent="FALSE" number="13" designator="NONE" primaryLanding="TRUE" primaryTakeoff="TRUE" primaryPattern="LEFT" secondaryLanding="TRUE" secondaryTakeoff="TRUE" secondaryPattern="LEFT" primaryMarkingBias="0.00000000000000" secondaryMarkingBias="0.00000000000000" groundMerging="TRUE" excludeVegetationAround="TRUE">
+			<Markings edges="TRUE" threshold="FALSE" alternateThreshold="FALSE" fixedDistance="FALSE" alternateFixedDistance="FALSE" touchdown="FALSE" alternateTouchdown="FALSE" dashes="FALSE" ident="FALSE" leadingZeroIdent="FALSE" precision="FALSE" alternatePrecision="FALSE" edgePavement="FALSE" singleEnd="FALSE" primaryClosed="FALSE" secondaryClosed="FALSE" primaryStol="FALSE" secondaryStol="FALSE" noThresholdEndArrows="FALSE"/>
+			<Lights center="NONE" edge="NONE"/>
+			<RunwayStart end="PRIMARY" lat="52.05232025470946" lon="5.92030160101658" alt="63.39375838544220" heading="135.00001525878906"/>
+			<RunwayStart end="SECONDARY" lat="52.05142944662586" lon="5.92174647976044" alt="63.39063076861203" heading="-44.99932098388672"/>
+		</Runway>
+		<Aprons/>
+		<PaintedElements/>
+		<ApronEdgeLights/>
+	</Airport>
+</FSData>
+

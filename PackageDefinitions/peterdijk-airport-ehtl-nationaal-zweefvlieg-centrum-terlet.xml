@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AssetPackage Version="0.1.0">
+	<ItemSettings>
+		<ContentType>SCENERY</ContentType>
+		<Title>Nationaal Zweefvlieg Centrum Terlet</Title>
+		<Manufacturer/>
+		<Creator>Peter van Dijk</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type>ContentInfo</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\peterdijk-airport-ehtl-nationaal-zweefvlieg-centrum-terlet\ContentInfo</AssetDir>
+			<OutputDir>ContentInfo\peterdijk-airport-ehtl-nationaal-zweefvlieg-centrum-terlet</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="scenery">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\\sceneries</AssetDir>
+			<OutputDir>scenery\peterdijk\</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+
