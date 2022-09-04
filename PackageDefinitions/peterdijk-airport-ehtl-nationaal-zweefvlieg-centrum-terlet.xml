@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<AssetPackage Version="0.1.0">
+<AssetPackage Version="0.1.1">
 	<ItemSettings>
 		<ContentType>SCENERY</ContentType>
 		<Title>Nationaal Zweefvlieg Centrum Terlet</Title>
 		<Manufacturer/>
-		<Creator>Peter van Dijk</Creator>
+		<Creator>Peter en Roel van Dijk</Creator>
 	</ItemSettings>
 	<Flags>
 		<VisibleInStore>false</VisibleInStore>
@@ -17,14 +17,14 @@
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
 			<AssetDir>PackageDefinitions\peterdijk-airport-ehtl-nationaal-zweefvlieg-centrum-terlet\ContentInfo</AssetDir>
-			<OutputDir>ContentInfo\peterdijk-airport-ehtl-nationaal-zweefvlieg-centrum-terlet</OutputDir>
+			<OutputDir>ContentInfo\peterdijk-airport-ehtl-nationaal-zweefvlieg-centrum-terlet\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="scenery">
 			<Type>BGL</Type>
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageSources\\sceneries</AssetDir>
+			<AssetDir>PackageSources\\sceneries\</AssetDir>
 			<OutputDir>scenery\peterdijk\</OutputDir>
 		</AssetGroup>
 	</AssetGroups>
